@@ -21,7 +21,7 @@ body {
   .title { text-align: center;
   }
 }
-.centered-main_page-element {
+.centered-element {
   display: block;
   width: 500px;
   margin: 0 auto 0;
